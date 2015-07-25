@@ -1,5 +1,5 @@
 # angular-base-structure
-The angular file structure I use
+The angular file structure I use. If you find something wrong or needs an update, please leave a comment or do a pull request. Suggestions are very much welcome
 
 ##Notes:
 Controller's file names are just as is, without affixes, but Controller's name has suffixes.
